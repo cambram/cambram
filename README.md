@@ -1,5 +1,4 @@
-**👋 Hi, I’m Cameron**
----
+# 👋 Hi, I’m Cameron
 I’m interested in Web & App Development
 
 <!---
