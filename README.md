@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cambram
-- 👀 I’m interested in Web & App Development
-- 🌱 I’m currently learning Backend web dev
+**👋 Hi, I’m Cameron**
+---
+I’m interested in Web & App Development
 
 <!---
 cambram/cambram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
