@@ -6,5 +6,5 @@ I always strive to bring as much value to the work that I do to deliver the most
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cameron brammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron brammer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cameron-brammer-ba361023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron brammer" height="30" width="40" /></a>
 </p>
