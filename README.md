@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron Brammer</h1>
 <h3 align="center">An enthusiastic web developer passionate in the power of technology to change the world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cambram&label=Profile%20views&color=0e75b6&style=flat" alt="cambram" /> </p>
-
-- 🔭 I’m currently working on **a personal website**
-
-- 🌱 I’m currently learning **game development in Unity**
-
-- 👯 I’m looking to collaborate on **web development**
-
-- 🤝 I’m looking for help with **game development and backend server side maintenance**
-
-- 📫 How to reach me **cameroncbrammer@gmail.com**
-
-- ⚡ Fun fact **I love gaming, music and football**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cameron brammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron brammer" height="30" width="40" /></a>
